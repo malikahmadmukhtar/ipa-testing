@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269036190878",
+    "project_id": "e-com-app-1e9de",
+    "storage_bucket": "e-com-app-1e9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269036190878:android:eabef6bc416f6e7dfd8f8f",
+        "android_client_info": {
+          "package_name": "com.ahmad.multistore.e_com_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObkdDd4XHJgt9JiVrEN3lP5xSnszi8-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
